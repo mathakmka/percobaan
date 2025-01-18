@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Kalkulator Kedua</title>   
+    <title>Kalkulator Kedua (2) </title>   
 </head>
 <style>
     input[type=text] {
