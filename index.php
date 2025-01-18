@@ -1,5 +1,8 @@
 <!DOCTYPE html>
 <html>
+<head>
+    <title>Kalkulator Pertama</title>   
+</head>
 <style>
     input[type=text] {
         width: 100%;
