@@ -111,7 +111,7 @@
                         <form action="#" method="post" name="kalkulator" style="border: 1px blue;">
                             <tr>
                                 <th colspan="2">
-                                    <font color="white">KALKULATOR ANGKA KEDUA</font>
+                                    <font color="white">KALKULATOR ANGKA 2</font>
                                 </th>
                             </tr>
                             <tr>
