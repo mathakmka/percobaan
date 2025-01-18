@@ -27,7 +27,7 @@
     }
 
     div {
-        padding: 150px;
+        padding: 100px;
     }
 
     .kal {
@@ -91,14 +91,11 @@
         */
         if ($operasi == 'tambah') {
             $hasil = $angka1 + $angka2;
-        }
-        elseif ($operasi == 'kurang') {
+        } elseif ($operasi == 'kurang') {
             $hasil = $angka1 - $angka2;
-        }
-        elseif ($operasi == 'kali') {
+        } elseif ($operasi == 'kali') {
             $hasil = $angka1 * $angka2;
-        } 
-        else {
+        } else {
             $hasil = $angka1 / $angka2;
         }
     }
@@ -111,7 +108,7 @@
                         <form action="#" method="post" name="kalkulator" style="border: 1px blue;">
                             <tr>
                                 <th colspan="2">
-                                    <font color="white">KALKULATOR</font>
+                                    <font color="white">KALKULATOR ANGKA</font>
                                 </th>
                             </tr>
                             <tr>
@@ -125,7 +122,6 @@
                             </tr>
 
                             <tr>
-
                                 <td><select class="opt" name="Operasi" placeholder="operasi">
                                         <option value="tambah">+</option>
                                         <option value="kurang">-</option>
@@ -149,6 +145,7 @@
                         </tr>
                     </table>
                 </div>
+            </div>
         </middle>
     </center>
     </div>
